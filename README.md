@@ -1,0 +1,1 @@
+This project is a relational database model for an online shopping system. It includes tables for users, products, categories, orders, order details, and payments. The project demonstrates the use of SQL queries involving joins, subqueries, views, CASE statements, and date/time functions. It also emphasizes data integrity through foreign keys and adheres to ACID properties
